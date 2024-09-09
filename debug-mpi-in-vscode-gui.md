@@ -5,7 +5,7 @@ Debugging MPI program is not easy. The most intended way can be found on [OpenMP
 ::: info
 I only tested this on my own linux laptop and a linux cluster. It should work on windows with some modifications.
 
-I originally learn this method from an article on [zhihu](https://www.zhihu.com) but I cannot find the original article. If you know the original author, please let me know.
+I originally learn this method from an article on [zhihu](https://www.zhihu.com) but I cannot find the original article. If you know the original author, please [let me know](mailto:z00823823@outlook.com).
 :::
 
 ## Prerequisites
