@@ -153,7 +153,7 @@ On the right VSCode window, do the same thing, but input the PID of the rank 1 (
 
 Now you can add break points and debug the program as usual. If you set break points on the left window, the program will stop at the break points on rank 0. If you set break points on the right window, the program will stop at the break points on rank 1.
 
-Focus on the terminal, press `Enter` to continue the program. The program will stop at the breakpoint you set, or stop at the crash point.
+Focus on the terminal, press `Enter` to continue the program. The program will stop at the break point you set, or stop at the crash point.
 
 ![debug](./img/stop-at-crash-point.webp)
 
